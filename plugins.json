@@ -438,12 +438,10 @@
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
 		},
-		{
-			"name": "EzPrestige"
-			"desc": "Allows players to prestige after rank Z!\nGood for Prison Servers!"
-			"jarName": "EZPrestige.jar",
-			"configName": "EZPrestige"
-		}
+                        "name": "EZPrestige",  
+                        "desc": "Allows players to prestige after rank Z!\n&4Requires EZRanksPro",  
+                        "jarName": "EZPrestige.jar",  
+                        "configName": "EZPrestige" }
 		
 	
 	]
