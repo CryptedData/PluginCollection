@@ -1,0 +1,7 @@
+{	
+		"name": "MiniGames",
+		"desc": "Allows players to easily create MiniGames!\n&cRequires VAULT!",
+		"jarName": "minigames1_11_DEV.zip",
+		"configName": "Minigames 1.11 Development",
+		"disabled": false
+	},
