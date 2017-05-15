@@ -440,7 +440,7 @@
 		},
 		{
 		        "name": "Ultra Cosmetics",  
-		        "desc": "Add Cosmetics to your server!",  
+		        "desc": "Add Cosmetics to your server!\n&cThis plugin requires &nTier 1&c to install.",  
 		        "jarName": "UltraCosmetics-2.4.4-RELEASE.jar",  
 		        "configName": "UltraCosmetics"  
 	}
