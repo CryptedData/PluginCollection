@@ -438,11 +438,9 @@
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
 		},
-                        "name": "EZPrestige",  
-                        "desc": "Allows players to prestige after rank Z!\n&4Requires EZRanksPro",  
-                        "jarName": "EZPrestige.jar",  
-                        "configName": "EZPrestige" }
-		
-	
-	]
-}
+		{
+		        "name": "Ultra Cosmetics",  
+		        "desc": "Add Cosmetics to your server!",  
+		        "jarName": "UltraCosmetics-2.4.4-RELEASE.jar",  
+		        "configName": "UltraCosmetics"  
+	}
