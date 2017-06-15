@@ -443,4 +443,12 @@
 		        "desc": "Add Cosmetics to your server!\n&cThis plugin requires &nTier 1&c to install.",  
 		        "jarName": "UltraCosmetics-2.4.4-RELEASE.jar",  
 		        "configName": "UltraCosmetics"  
-	}
+	        },
+		{			
+			"name":"CTSNC",
+			"desc": "Protocol Hack!\n From animated scoreboards to tablists!\n &cScoreboards may reset after installing!\n &cRequires &c&nTier 5&c to install!",
+			"jarName": "CTSNC-11.5.jar",
+			"configName": "CTSNC",
+			"requiredRank": "5"
+
+		
